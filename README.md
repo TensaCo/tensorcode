@@ -1,6 +1,8 @@
 ![](assets/img/logo-color.png)
 
-# TensaCode: Machine Learning + Software Engineering + Runtime Introspection and Code Generation = Programming 2.0
+# TensaCode: an open source neurosymbolic programming framework for learning structured programs
+
+> TensaCode: Machine Learning + Software Engineering + Runtime Introspection and Code Generation = Programming 2.0
 
 TensaCode is a framework that introduces simple abstractions and functions for encoding, decoding, querying, and manipulating arbitrary python objects, differentiable programming (including differentiable control flow), and intelligent runtime code generation and execution. Rather than just think about the underlying mathematical objects, TensaCode's abstractions enable you to draw on decades of software engineering patterns, paradigms, and derived concepts to concisely approach your underlying problem. If you’re building models that require highly structured inputs or outputs (ie, embarassingly multi-modal architectures), researching the next generation of end-to-end differentiable cognitive architectures, or just adding learning capability on top of an existing program, TensaCode may fit right into your stack!
 
